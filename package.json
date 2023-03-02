@@ -2,7 +2,13 @@
   "name": "logbook",
   "displayName": "LogBook",
   "description": "LogBook Manager",
-  "version": "0.0.1",
+  "version": "0.2.0",
+  "publisher": "Rudi Bruchez",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rudi-bruchez/vscode-logbook"
+  },
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.76.0"
   },
